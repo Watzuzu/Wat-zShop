@@ -5,7 +5,7 @@ const Home = () => {
     const products = [
         {
             id: 1,
-            name: 'Produit 1',
+            name: 'Produit 4',
             price: '19.99',
             image: 'url_to_image_1'
         },
